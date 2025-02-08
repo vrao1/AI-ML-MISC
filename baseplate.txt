@@ -1,0 +1,30 @@
+You are a mechanical engineer. Given the below requirements to design a base plate, provide the requested output as defined under the section titled "design deliverables".
+
+
+1. Load Capacity
+
+Primary Vertical Load: 3,000 N (≈ 300 kg mass-equivalent)
+
+Lateral (Horizontal) Load: 300 N (to simulate minor side loads/wind or a person leaning).
+
+The baseplate must safely carry these loads concurrently with Factor of Safety (FOS) ≥ 2.
+
+2. Dimensions & Mounting
+
+Maximum Plate Footprint: 200 mm × 200 mm (students can design a shape within this envelope—square, rectangular, circular, etc.).
+
+Plate Thickness: Up to 10 mm max (to control weight and material usage).
+
+The baseplate must have four (4) mounting holes to accommodate M10 bolts (or equivalent fasteners).
+
+Mounting hole pattern (i.e., center-to-center spacing) should fit within the 200×200 mm footprint and be arranged to ensure stability.
+
+3. Deflection Constraint
+
+Under the maximum expected load (vertical + lateral), the top surface of the baseplate should not deflect more than 0.5 mm at the center or post location.
+
+4. Weight & Cost
+
+The baseplate should weigh no more than 3 kg to simplify handling.
+
+Aim for an estimated material cost ≤ $20 in moderate production volumes.

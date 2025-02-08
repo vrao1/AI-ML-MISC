@@ -1,0 +1,27 @@
+- Perform requirements gap analysis and add new requirements as optional requirements for the design
+
+- Please provide a list of requirements elucidated individually in a tabular format with each line item being an independent requirement type for the design
+
+- How would the design be created and what all does the engineer / engineering team have to be do. Create a design plan.
+
+- create automation program in Visual Basic programming language to create the CAD model of the proposed base plate design. You need to develop baseplate designs using a 3D CAD software package (SolidWorks, Autodesk Fusion 360, Openscad, Freecad, Onshape).Please provide a complete code so that it can be executed to create the 3D models in the specified CAD software. Please do not provide code snippet but rather complete executable code.
+
+- Propose the material selected
+
+- Conduct structural analysis for each design and provide a report summarizing the results, including stress calculations, deflection analysis, and safety factor verification.
+
+-  Conduct Safety and Failure Analysis
+
+-  Propose the relevant applicable standards
+
+- Test Plan(s) and Test case generation to evaluate the proposed design(s).
+
+- Manufacturing process recommendation (e.g. 3D printing or CNC or molding etc?)
+
+- Provide a comprehensive report justifying the design choices for each concept, including material selection, connection method, and design features. Compare and contrast the different designs, highlighting their advantages and disadvantages.
+
+-  Produce detailed engineering drawings for each design, including dimensions, tolerances, and material specifications.
+
+- Estimate the manufacturing cost for each design, considering material costs, labor, and manufacturing processes.
+
+-  Present and email the design report to the team, showcasing the different concepts, analysis results, and design justification.
